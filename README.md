@@ -1,7 +1,6 @@
 - 👋 I’m @Judi-fr
 - 👀 I am a noob
-- 🌱 I’m currently learning front end 
-- 💞️ I’m looking to collaborate on me
-- 📫 How to reach me, talk to me
+- 🌱 I’m currently learning css html
+  and c++ 
 - 😄 Pronouns: Judi
 - ⚡ Fun fact: I can fight in a cage
